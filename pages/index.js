@@ -14,9 +14,6 @@ export default function Home ({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>Hi, my name is <b>Dhieo Deva!</b> I am a web developer with 3 years of experience</p>
         <p>
-         this is a example of <strong>branch</strong> release
-        </p>
-        <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
